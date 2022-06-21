@@ -2,6 +2,5 @@
 First Github Repo. Excited to learn!
 hello Odin!
 hello again Odin!
-HELLO AGAIN ODIN YABADABADOOOOOO
+HELLO AGAIN ODIN
 eyeyeyey
-weiner
